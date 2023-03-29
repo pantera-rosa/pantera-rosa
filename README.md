@@ -1,2 +1,2 @@
 - 👋 Hi, I'm @pantera-rosa, a software engineer currently open to new opportunities.
-- 🐜 I mostly have experience in frontend development (React/JS+TS) but love to write in Go/Python and would like to work more on APIs and serverless & cloud technologies (AWS & GCP).
+- 🐜 Check out my resume at https://ilonabodn.ar
