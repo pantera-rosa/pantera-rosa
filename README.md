@@ -1,2 +1,1 @@
-- 👋 Hi, I'm @pantera-rosa, a software engineer currently open to new opportunities.
-- 🐜 Check out my resume at https://ilonabodn.ar
+- 👋 Hi, I'm @pantera-rosa.
